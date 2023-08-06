@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suit name="Test suit">
+
+<test name="Test cases">
+<groups>
+<run>
+
+<include name=""></include>
+
+
+</run>
+
+
+
+
+</groups>
+
+<classes>
+
+<class name="testNG.GroupingExample"></class>
+
+<!-- <class name="testNG.Dependency"></class>
+<class name="testNG.SampleTestCase"></class>
+ -->
+
+</classes>
+
+
+
+</test>
+
+</suit>
